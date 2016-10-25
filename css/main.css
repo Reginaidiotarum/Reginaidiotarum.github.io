@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
 
 
-body{background: linear-gradient(rgba(245, 169, 184, 0.49),rgba(255, 255, 255, 0.15), rgba(91, 206, 250, 1)),url(../img/286.png) -100px -100px fixed;
+body{background: linear-gradient(rgba(245, 169, 184, 0.49),rgba(255, 255, 255, 0.15), rgba(91, 206, 250, 1)),url('https://lh3.googleusercontent.com/kOs-M628GTqX-YUeqSwgoVr-8mibkkn-Ew4lQQAUVd_SapseqxMxGYZp4UFHAklbLjVTFKae6lrNYvYiQbFI-ekzEgxDdcDer0N7vJvQ5aCnoF9YmxPNrUUqQgU6RAfLxPbRHKvN1L4ERnwxFmgktpgBvAskNhUiWu60NcZAlTvLyspq2JQYjPNVOT7DUtQUgKZ6RjFHqqHmGUEy1sgrfzGZVIjpDtN94kdbWoXSckP3Sm4jfmJHyhvHJTOZ4G9vFHRoOv9WqLqozjR_5F5HGcol1JR8ZJp-vtgKhh9EsHA2EpB22QlW-MNYMRrFGY5gRuxCefGJjdkg8LXMPzivPGioXPL_bShUjjO53V42erMn_M8fzhJwcATP5pNfjPdlaDFrlZ-E-wqbfCMMJZTggMr4kYdLm04Gy0chEd5kwwKQZlBu-Xs9McMRmU0njPqDSzeKsXloPikoviw4obbc61FLGl75fzw2HrmeJjimGvSeSVaxtFtt7XsfSwG26vWFlPWIpINvU1zUTPWnLpZ6KbAzJcOL1UE8l5UUJmBiEKNVxsP3MjhDURiukXYPAugGfldwfmbE936hXzpmJHptX3KgJvlxEGb5DeCDALCDuTfpWHmM=w964-h951-no') -100px -100px fixed;
 , url(../img/286.png) -100px -100px fixed; margin:0; padding:0;
 	animation-name:slowShift; animation-duration:35s; animation-timing-function: ease-in-out;
     animation-iteration-count: infinite;  animation-direction: alternate;
